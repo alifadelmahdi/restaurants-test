@@ -1,0 +1,31 @@
+.navbar{
+    background-color: gray;
+}
+.navbar-brand{
+    color: black;
+}
+.navbar .dropdown-menu{
+    background-color: gray;
+}
+.dropdown-item{
+    color: white;
+}
+.word-logo{
+    padding-top: 90px;
+    font-size: 3.750rem;
+}
+.order{
+    margin-top: 35px;
+}
+.restaurant span{
+    font-size: 4rem;
+}
+.chain-btn{
+    font-size: 27px;
+}
+.copyright{
+    font-size: 13px;
+}
+.me{
+    font-size: 11;
+}
